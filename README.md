@@ -1,6 +1,5 @@
 # 📊 Data Leverager
 
-🎥 **[Watch the Complete Video Explanation Here](YOUR_GOOGLE_DRIVE_LINK_HERE)** ## 
 
 * **Dynamic Folder Extraction:** Automated the extraction and combination of multiple monthly Excel files (`Sales_Jan`, `Sales_Feb`, `Sales_Mar`, etc.). When a new file (e.g., `Sales_Apr`) is added to the folder, the data updates automatically upon refresh.
 * **Web Scraping:** Successfully loaded and transformed live HTML tables from Wikipedia (List of countries by GDP).
